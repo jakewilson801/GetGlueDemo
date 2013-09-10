@@ -1,0 +1,195 @@
+[
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/ellen_degeneres_show_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/185048/p185048_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/ellen_degeneres_show/small_tile.jpg",
+      "iphone": "http://gg-showcard-img.s3.amazonaws.com/h5/AllPhotos/185048/p185048_b_h5_aa.jpg",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/ellen_degeneres_show_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/ellen_degeneres_show/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/ellen_degeneres_show/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/72194/Ellen.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/ellen_degeneres_show/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/72194/Ellen_323x60.jpg"
+    },
+    "trending": {
+      "total": 956.0,
+      "rank": 1
+    },
+    "id": "tv_shows/ellen_degeneres_show",
+    "title": "The Ellen DeGeneres Show"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/friends_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/183931/p183931_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/friends/small_tile.jpg",
+      "iphone": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/friends/79168-3.jpg%0D%0A",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/friends_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/friends/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/friends/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/79168/79168-g4.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/friends/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/79168/79168-g4_323x60.jpg"
+    },
+    "trending": {
+      "total": 931.0,
+      "rank": 2
+    },
+    "id": "tv_shows/friends",
+    "title": "Friends"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/breaking_bad_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/185846/p185846_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/breaking_bad/small_tile.jpg",
+      "iphone": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/breaking_bad/81189-4.jpg",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/breaking_bad_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/breaking_bad/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/breaking_bad/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/81189/81189-g22.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/breaking_bad/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/81189/81189-g22_323x60.jpg"
+    },
+    "trending": {
+      "total": 828.0,
+      "rank": 3
+    },
+    "id": "tv_shows/breaking_bad",
+    "title": "Breaking Bad"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/bethenny_300x223.jpg",
+      "square": "http://img.getglue.com/tv_shows/bethenny/small_tile.jpg",
+      "iphone": "http://s3.amazonaws.com/blueorganizer/images/default/show.png",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/bethenny_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/bethenny/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/bethenny/xlarge.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/bethenny/small.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/8115799/p8115799_b_h3_aa.jpg"
+    },
+    "trending": {
+      "total": 647.0,
+      "rank": 4
+    },
+    "id": "tv_shows/bethenny",
+    "title": "Bethenny"
+  },
+  {
+    "images": {
+      "wide": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/crossfire/crossfire-show.jpg%0D%0A",
+      "square": "http://img.getglue.com/tv_shows/crossfire/small_tile.jpg",
+      "iphone": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/crossfire/crossfire-show.jpg%0D%0A",
+      "normal": "http://img.getglue.com/tv_shows/crossfire/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/crossfire/xlarge.jpg",
+      "header_small": null,
+      "thumbnail": "http://img.getglue.com/tv_shows/crossfire/small.jpg"
+    },
+    "trending": {
+      "total": 592.0,
+      "rank": 5
+    },
+    "id": "tv_shows/crossfire",
+    "title": "Crossfire"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/dexter_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/185267/p185267_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/dexter/small_tile.jpg",
+      "iphone": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/dexter/51gU7VwlU0L._SX500_.jpg",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/dexter_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/dexter/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/dexter/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/79349/DexterS8_GetGlue_Banner_758x140.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/dexter/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/79349/DexterS8_GetGlue_Banner_758x140_323x60.jpg"
+    },
+    "trending": {
+      "total": 490.0,
+      "rank": 6
+    },
+    "id": "tv_shows/dexter",
+    "title": "Dexter"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/burn_notice_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/185589/p185589_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/burn_notice/small_tile.jpg",
+      "iphone": "http://adaptiveblue.s3.amazonaws.com/tv_shows/burn_notice/BNSpecialRetinaDis-v1.jpg",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/burn_notice_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/burn_notice/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/burn_notice/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/80270/BNBannerRetinaDis-v1.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/burn_notice/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/80270/BNBannerRetinaDis-v1_323x60.jpg"
+    },
+    "trending": {
+      "total": 407.0,
+      "rank": 7
+    },
+    "id": "tv_shows/burn_notice",
+    "title": "Burn Notice"
+  },
+  {
+    "images": {
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/9938712/p9938712_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/million_second_quiz/small_tile.jpg",
+      "iphone": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/million_second_quiz/millionseconds-1368398363_600.jpg",
+      "normal": "http://img.getglue.com/tv_shows/million_second_quiz/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/million_second_quiz/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/272655/272655-g.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/million_second_quiz/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/272655/272655-g_323x60.jpg"
+    },
+    "trending": {
+      "total": 369.0,
+      "rank": 8
+    },
+    "id": "tv_shows/million_second_quiz",
+    "title": "The Million Second Quiz"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/big_bang_theory_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/185554/p185554_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/big_bang_theory/small_tile.jpg",
+      "iphone": "http://gg-tv-img.s3.amazonaws.com/images/series/na/tv_shows/big_bang_theory/51-Z7vzI0HL._SX500_.jpg",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/big_bang_theory_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/big_bang_theory/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/big_bang_theory/xlarge.jpg",
+      "banner": "http://s3.amazonaws.com/gg-tv-img/banners/series/80379/80379-g13.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/big_bang_theory/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/80379/80379-g13_323x60.jpg"
+    },
+    "trending": {
+      "total": 352.0,
+      "rank": 9
+    },
+    "id": "tv_shows/big_bang_theory",
+    "title": "The Big Bang Theory"
+  },
+  {
+    "images": {
+      "cast": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/siberia_300x223.jpg",
+      "wide": "http://gg-showcard-img.s3.amazonaws.com/h3/AllPhotos/9987185/p9987185_b_h3_aa.jpg",
+      "square": "http://img.getglue.com/tv_shows/siberia/small_tile.jpg",
+      "iphone": "http://adaptiveblue.s3.amazonaws.com/tv_shows/siberia/Siberia_GG_1104x600.jpg",
+      "cast_retina": "http://gg-showcard-img.s3.amazonaws.com/tv_shows/siberia_600x446.jpg",
+      "normal": "http://img.getglue.com/tv_shows/siberia/normal.jpg",
+      "extra_large": "http://img.getglue.com/tv_shows/siberia/xlarge.jpg",
+      "banner": "http://gg-tv-img.s3.amazonaws.com/banners/series/270019/Siberia_GG_1516x280.jpg",
+      "thumbnail": "http://img.getglue.com/tv_shows/siberia/small.jpg",
+      "header_small": "http://s3.amazonaws.com/gg-tv-img/banners/series/270019/Siberia_GG_1516x280_323x60.jpg"
+    },
+    "trending": {
+      "total": 326.0,
+      "rank": 10
+    },
+    "id": "tv_shows/siberia",
+    "title": "Siberia"
+  }
+]
